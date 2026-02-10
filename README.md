@@ -23,3 +23,40 @@ The Digital Twin will:
 - Support future job applications and research opportunities
 
 ---
+
+---
+
+## Technologies Planned
+
+- Python
+- Retrieval-Augmented Generation (RAG)
+- Vector databases (Upstash / Chroma)
+- Large Language Models (LLMs)
+- Cloud deployment (Vercel)
+- GitHub version control
+
+---
+
+## Current Status
+
+Week 1 completed:
+- Repository setup
+- Professional dataset creation
+- Agent instructions defined
+- Documentation initiated
+
+Future weeks will include:
+
+- Vector embeddings
+- MCP server integration
+- Interview simulation automation
+- Deployment to cloud infrastructure
+
+---
+
+## Author
+
+**Pema Yangzom**  
+Master of IT (Artificial Intelligence)  
+Aspiring Data Analyst & AI Researcher  
+Based in Brisbane, Australia
