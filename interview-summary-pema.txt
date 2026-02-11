@@ -1,0 +1,31 @@
+Interview Simulation Summary – Digital Twin Project
+
+Candidate: Pema Yangzom
+Project: AI Digital Twin Interview Simulation
+
+Job Descriptions Used:
+- Graduate Research Analyst – Canstar
+- Junior Data Analyst – Hypetap
+- Graduate Data Analyst – BNK Banking Corporation
+- Graduate Technical Business Analyst – Turium AI
+- Graduate Analyst Advisory – Hatch
+
+Interview Simulation Results:
+The Digital Twin successfully generated structured responses
+based on stored profile data using RAG-style retrieval.
+
+Key Observations:
+- Answers aligned with education, AI research focus, and analytics skills
+- Strong emphasis on data analysis, machine learning, and research experience
+- Responses remained consistent with documented achievements
+- System demonstrated ability to simulate recruiter-style evaluation
+
+Overall Outcome:
+Digital Twin is capable of supporting interview simulation,
+providing grounded responses, and generating evaluation summaries.
+
+Status: PASS (Simulation Successful)
+
+Next Steps:
+Further refinement planned with improved embeddings,
+MCP deployment, and enhanced scoring logic.
