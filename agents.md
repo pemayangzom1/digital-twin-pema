@@ -30,3 +30,39 @@ When adding new achievements, keep them:
 - measurable (numbers, impact, outcome)
 - realistic (no exaggeration)
 - tagged (education / project / work / teamwork / leadership)
+
+---
+
+## Interview Simulation Instructions
+
+This Digital Twin project uses Retrieval-Augmented Generation (RAG)
+to simulate professional job interviews based on real job descriptions.
+
+### Input Sources
+- Job descriptions stored in `/jobs/`
+- Professional profile data stored in `/data/`
+
+### Output Location
+- Interview results saved in `/interview/`
+
+### Interview Process
+1. Read job description from `/jobs/`
+2. Retrieve relevant candidate information using vector search
+3. Generate interview questions autonomously
+4. Produce evidence-based answers
+5. Evaluate candidate performance
+6. Provide:
+   - Score (percentage)
+   - Pass/Fail decision
+   - Hiring recommendation
+
+### MCP Integration
+The system connects to an MCP server for:
+- Semantic search retrieval
+- Evidence grounding
+- RAG-based response generation
+
+### Goal
+Simulate realistic recruiter interviews using factual candidate data,
+not hallucinated responses.
+
