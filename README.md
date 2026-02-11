@@ -68,3 +68,6 @@ This Digital Twin AI project supports my transition into Data Analytics and AI-d
 Master of IT (Artificial Intelligence)  
 Aspiring Data Analyst & AI Researcher  
 Based in Brisbane, Australia
+
+## Development Log
+Week 4 – Repository connected, deployment started, learning Git workflow.
